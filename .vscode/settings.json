@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ghtjd1492/robot_ws/build/my_first_ros_rclpy_pkg",
+        "/home/ghtjd1492/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
