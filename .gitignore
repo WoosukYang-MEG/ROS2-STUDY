@@ -1,0 +1,11 @@
+settings.json
+
+# file
+*.log
+*cache*
+
+
+# dirctory
+.vscode/
+install/
+build/
