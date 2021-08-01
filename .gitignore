@@ -6,6 +6,7 @@ settings.json
 
 
 # dirctory
+log/
 .vscode/
 install/
 build/
